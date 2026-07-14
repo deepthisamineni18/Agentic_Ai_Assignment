@@ -45,64 +45,103 @@ order, as many times as you like.
 
 ---
 
-## Repository layout
+## Repository Structure
 
 ```
-project1/
-  .dockerignore
-  .env.example
-  .gitignore
-  Dockerfile
-  Makefile
-  README.md
-  docker-compose.yml
-  entrypoint.py
-  requirements.txt
-  verify.py
-  topics.json
-  topics_bench.json
-  architecture_diagram.svg
-  research_pipeline/
-    __init__.py
-    bus.py
-    cli.py
-    main.py
-    schemas.py
-    supervisor.py
-    logging_config.py
-    customer_intelligence/
-      config.py
-      lmcache_production.py
-      pipeline.py
-    rag/
-      __init__.py
-      conversation.py
-      ingestion.py
-      reranker.py
-      scheduler.py
-      search_tool.py
-      vector_db.py
-    active_learning/
-      annotation_pipeline.py
-      config.py
-      datasets.py
-  tests/
-    __init__.py
-    conftest.py
-    test_active_learning.py
-    test_agents.py
-    test_customer_intelligence.py
-    test_integration.py
-    test_llm_client.py
-    test_lmcache_production.py
-    test_memory_safety.py
-    test_rag.py
-    test_scheduler.py
-  output/
-    report_*.json
-    trace_*.json
-    run_summary.json
+Agentic_Ai_Assignment/
+│
+├── 📄 Configuration & Setup Files
+│   ├── docker-compose.yml          # Docker Compose configuration for running all services
+│   ├── Dockerfile                  # Docker image definition
+│   ├── Makefile                    # Build automation (Linux/Mac)
+│   ├── requirements.txt            # Python dependencies
+│   ├── .dockerignore               # Files to exclude from Docker image
+│   ├── .gitignore                  # Git ignore rules
+│   ├── entrypoint.py               # Container entrypoint script
+│   └── .env.example                # Environment variables template
+│
+├── 📋 Documentation & Verification
+│   ├── README.md                   # This file
+│   ├── verify.py                   # Script to verify Assignment 1 output
+│   ├── topics.json                 # 5 demo research topics
+│   └── topics_bench.json           # 100 topics for benchmarking
+│
+├── 📁 research_pipeline/           # Main pipeline package
+│   ├── __init__.py
+│   ├── main.py                     # Entry point for pipeline execution
+│   ├── cli.py                      # Command-line interface
+│   ├── bus.py                      # Redis Streams message bus
+│   ├── supervisor.py               # Agent orchestration & coordination
+│   ├── schemas.py                  # Data models and Pydantic schemas
+│   ├── logging_config.py           # Logging configuration
+│   │
+│   ├── 🤖 agents/                  # Assignment 1 - Core 4-agent system
+│   │   ├── __init__.py
+│   │   ├── planner.py              # Research planning agent
+│   │   ├── searcher.py             # Web search agent
+│   │   ├── synthesizer.py          # Result synthesis agent
+│   │   └── critic.py               # Quality evaluation agent
+│   │
+│   ├── 📚 rag/                     # Assignment 2 - Retrieval-Augmented Generation
+│   │   ├── __init__.py
+│   │   ├── vector_db.py            # Vector database operations
+│   │   ├── ingestion.py            # Document ingestion pipeline
+│   │   ├── search_tool.py          # Semantic search functionality
+│   │   ├── conversation.py         # Conversation management
+│   │   ├── reranker.py             # Result reranking
+│   │   ├── scheduler.py            # Task scheduling
+│   │   └── lmcache_production.py   # LM Cache for production
+│   │
+│   ├── 🧠 active_learning/        # Assignment 3 - Active Learning System
+│   │   ├── __init__.py
+│   │   ├── annotation_pipeline.py  # Annotation workflow
+│   │   ├── datasets.py             # Dataset management
+│   │   └── config.py               # Active learning configuration
+│   │
+│   └── 👥 customer_intelligence/  # Assignment 4 - Customer Intelligence
+│       ├── __init__.py
+│       ├── pipeline.py             # Customer intelligence pipeline
+│       ├── lmcache_production.py   # LM Cache implementation
+│       └── config.py               # Configuration settings
+│
+├── 🧪 tests/                       # Test suite
+│   ├── __init__.py
+│   ├── conftest.py                 # Pytest configuration & fixtures
+│   ├── test_agents.py              # Tests for 4-agent system
+│   ├── test_active_learning.py     # Tests for active learning
+│   ├── test_customer_intelligence.py # Tests for customer intelligence
+│   ├── test_integration.py         # End-to-end integration tests
+│   ├── test_llm_client.py          # LLM client tests
+│   ├── test_lmcache_production.py  # LM Cache tests
+│   ├── test_memory_safety.py       # Memory safety tests
+│   ├── test_rag.py                 # RAG pipeline tests
+│   └── test_scheduler.py           # Scheduler tests
+│
+├── 📊 output/                      # Generated reports and traces
+│   ├── report_*.json               # Individual research reports
+│   ├── trace_*.json                # Execution traces
+│   ├── run_summary.json            # Summary of all runs
+│   ├── archives/                   # HTML snapshots of researched pages
+│   ├── ingestion_reports/          # RAG ingestion reports
+│   └── sessions/                   # Session data
+│
+└── 🔧 scripts/                     # Utility scripts
+    ├── bisect_tests.py             # Binary search for test issues
+    └── check_report_urls.py        # URL validation script
 ```
+
+### Directory Quick Reference
+
+| Directory | Purpose |
+|-----------|---------|
+| `research_pipeline/` | Core application code for all 4 assignments |
+| `research_pipeline/agents/` | Agent implementations (Planner, Searcher, Synthesizer, Critic) |
+| `research_pipeline/rag/` | RAG pipeline with vector DB, ingestion, and search |
+| `research_pipeline/active_learning/` | Active learning system for annotation and dataset management |
+| `research_pipeline/customer_intelligence/` | Customer intelligence analysis pipeline |
+| `tests/` | Comprehensive test suite for all components |
+| `output/` | Generated reports, traces, and archived web content |
+| `scripts/` | Utility and debugging scripts |
 
 This repo separates the core research pipeline from the bundled assignment modules. Each assignment lives under `research_pipeline/` with its own subpackage, the shared CLI entrypoint is `research_pipeline/cli.py`, and tests live in `tests/`.
 
