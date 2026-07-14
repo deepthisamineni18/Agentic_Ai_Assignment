@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ResearchReport",
+  "type": "object",
+  "required": ["report_id", "topic", "summary", "sections", "sources", "critique", "metadata"],
+  "properties": {
+    "report_id": {"type": "string"},
+    "topic": {"type": "string"},
+    "summary": {"type": "string"},
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["heading", "content", "citations"],
+        "properties": {
+          "heading": {"type": "string"},
+          "content": {"type": "string"},
+          "citations": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_id", "url", "title", "relevance_score", "scraped_at"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "url": {"type": "string"},
+          "title": {"type": "string"},
+          "relevance_score": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+          "scraped_at": {"type": "string"}
+        }
+      }
+    },
+    "critique": {
+      "type": "object",
+      "required": ["confidence_score", "gaps", "bias_flags"],
+      "properties": {
+        "confidence_score": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+        "gaps": {"type": "array", "items": {"type": "string"}},
+        "bias_flags": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["total_urls_visited", "agent_interactions", "wall_clock_seconds"],
+      "properties": {
+        "total_urls_visited": {"type": "integer"},
+        "agent_interactions": {"type": "integer"},
+        "wall_clock_seconds": {"type": "number"}
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "system",
+    "content": "SUMMARY OF PAST TURNS: User: How does AI help in radiology?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radi... | User: How does AI help in radiology?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radi... | User: How does AI help in radiology?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radi... | User: How does AI help in radiology?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radi... | User: How does AI help in radiology?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radi... | User: How does AI help in radiology?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radi..."
+  },
+  {
+    "role": "user",
+    "content": "How does AI help in radiology?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radiologists by spotting anomalies in\n\nSource [1]: anomalies in medical images.\n\nSource [2]: Clinical workflow Hospitals use AI to reduce administrative load and\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  },
+  {
+    "role": "user",
+    "content": "How does AI help in radiology?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radiologists by spotting anomalies in\n\nSource [1]: anomalies in medical images.\n\nSource [2]: Clinical workflow Hospitals use AI to reduce administrative load and\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  },
+  {
+    "role": "user",
+    "content": "How does AI help in radiology?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Medical AI AI systems assist radiologists by spotting anomalies in\n\nSource [1]: anomalies in medical images.\n\nSource [2]: Clinical workflow Hospitals use AI to reduce administrative load and\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  }
+]

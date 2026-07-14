@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2026-07-14T18:35:18.766573+00:00",
+    "channel": "planner",
+    "sender": "Supervisor",
+    "recipient": "PlannerAgent",
+    "msg_type": "research.requested"
+  },
+  {
+    "timestamp": "2026-07-14T18:35:18.772580+00:00",
+    "channel": "searcher",
+    "sender": "PlannerAgent",
+    "recipient": "SearcherAgent",
+    "msg_type": "plan.created"
+  },
+  {
+    "timestamp": "2026-07-14T18:35:18.941032+00:00",
+    "channel": "synthesizer",
+    "sender": "SearcherAgent",
+    "recipient": "SynthesizerAgent",
+    "msg_type": "search.done"
+  },
+  {
+    "timestamp": "2026-07-14T18:35:18.944541+00:00",
+    "channel": "critic",
+    "sender": "SynthesizerAgent",
+    "recipient": "CriticAgent",
+    "msg_type": "synthesis.done"
+  },
+  {
+    "timestamp": "2026-07-14T18:35:18.946732+00:00",
+    "channel": "output.d363b464-3d05-4e75-a1a0-485472ea1933",
+    "sender": "CriticAgent",
+    "recipient": "Supervisor",
+    "msg_type": "report.done"
+  }
+]

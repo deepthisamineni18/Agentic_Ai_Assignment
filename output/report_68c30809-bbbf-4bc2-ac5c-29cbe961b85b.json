@@ -1,0 +1,206 @@
+{
+  "report_id": "68c30809-bbbf-4bc2-ac5c-29cbe961b85b",
+  "topic": "Advances in gene editing for disease treatment",
+  "summary": "This report synthesizes findings on 'Advances in gene editing for disease treatment' drawn from 15 sources across 5 research angles. Well-covered angles include: Advances Gene Editing Disease Treatment Overview And Definition; Advances Gene Editing Disease Treatment Recent Developments; Advances Gene Editing Disease Treatment Key Players And Organizations; Advances Gene Editing Disease Treatment Challenges And Risks; Advances Gene Editing Disease Treatment Economic Or Societal Impact. Overall, the source base reflects a mix of independent outlets and reflects reasonable topical diversity; see the critique section for a confidence assessment and any bias flags. Detailed section breakdown follows to provide comprehensive context: Drawing on 4 sources, this section examines 'advances gene editing disease treatment overview and definition'. An in-depth analysis of gene editing, focused on regional implications for practitioners and policymakers. New adoption on gene editing highlights recent shifts across the industry and academic community. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 4 sources, this section examines 'advances gene editing disease treatment recent developments'. This article covers recent developments related to gene editing, with data from multiple independent sources. This article covers recent developments related to gene editing, with data from multiple independent sources. Sources vary in framing and emphasis across 3 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 4 sources, this section examines 'advances gene editing disease treatment key players and organizations'. A regional look at impact in gene editing, examining key drivers, stakeholders, and open questions. A groundbreaking look at trends in gene editing, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 1 sources, this section examines 'advances gene editing disease treatment challenges and risks'. Experts discuss the short-term risks surrounding gene editing and what it means going forward. Drawing on 1 sources, this section examines 'advances gene editing disease treatment economic or societal impact'. An in-depth impact of gene editing, focused on regional implications for practitioners and policymakers. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. ",
+  "sections": [
+    {
+      "heading": "Advances Gene Editing Disease Treatment Overview And Definition",
+      "content": "Drawing on 4 sources, this section examines 'advances gene editing disease treatment overview and definition'. An in-depth analysis of gene editing, focused on regional implications for practitioners and policymakers. New adoption on gene editing highlights recent shifts across the industry and academic community. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_000028",
+        "src_007499",
+        "src_001284",
+        "src_006523"
+      ]
+    },
+    {
+      "heading": "Advances Gene Editing Disease Treatment Recent Developments",
+      "content": "Drawing on 4 sources, this section examines 'advances gene editing disease treatment recent developments'. This article covers recent developments related to gene editing, with data from multiple independent sources. This article covers recent developments related to gene editing, with data from multiple independent sources. Sources vary in framing and emphasis across 3 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_007589",
+        "src_005550",
+        "src_009085",
+        "src_008320"
+      ]
+    },
+    {
+      "heading": "Advances Gene Editing Disease Treatment Key Players And Organizations",
+      "content": "Drawing on 4 sources, this section examines 'advances gene editing disease treatment key players and organizations'. A regional look at impact in gene editing, examining key drivers, stakeholders, and open questions. A groundbreaking look at trends in gene editing, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_001343",
+        "src_005272",
+        "src_004932",
+        "src_007523"
+      ]
+    },
+    {
+      "heading": "Advances Gene Editing Disease Treatment Challenges And Risks",
+      "content": "Drawing on 1 sources, this section examines 'advances gene editing disease treatment challenges and risks'. Experts discuss the short-term risks surrounding gene editing and what it means going forward.",
+      "citations": [
+        "src_000193"
+      ]
+    },
+    {
+      "heading": "Advances Gene Editing Disease Treatment Economic Or Societal Impact",
+      "content": "Drawing on 1 sources, this section examines 'advances gene editing disease treatment economic or societal impact'. An in-depth impact of gene editing, focused on regional implications for practitioners and policymakers.",
+      "citations": [
+        "src_002285"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_007589",
+      "url": "https://www.bbc.com/articles/gene-editing-developments-7589",
+      "title": "Recent developments in gene editing",
+      "snippet": "This article covers recent developments related to gene editing, with data from multiple independent sources.",
+      "relevance_score": 0.571,
+      "scraped_at": "2026-07-14T13:30:48.906753+00:00",
+      "sub_query_id": "3a5a69a1"
+    },
+    {
+      "source_id": "src_005550",
+      "url": "https://www.arxiv.org/articles/gene-editing-developments-5550",
+      "title": "Recent developments in gene editing",
+      "snippet": "This article covers recent developments related to gene editing, with data from multiple independent sources.",
+      "relevance_score": 0.571,
+      "scraped_at": "2026-07-14T13:30:48.906812+00:00",
+      "sub_query_id": "3a5a69a1"
+    },
+    {
+      "source_id": "src_000193",
+      "url": "https://www.bloomberg.com/articles/gene-editing-risks-193",
+      "title": "Short-term risks in gene editing",
+      "snippet": "Experts discuss the short-term risks surrounding gene editing and what it means going forward.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T13:30:49.005235+00:00",
+      "sub_query_id": "868c1822"
+    },
+    {
+      "source_id": "src_001343",
+      "url": "https://www.who.int/articles/gene-editing-impact-1343",
+      "title": "Regional impact in gene editing",
+      "snippet": "A regional look at impact in gene editing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.444,
+      "scraped_at": "2026-07-14T13:30:48.961525+00:00",
+      "sub_query_id": "8141b287"
+    },
+    {
+      "source_id": "src_005272",
+      "url": "https://www.un.org/articles/gene-editing-trends-5272",
+      "title": "Groundbreaking trends in gene editing",
+      "snippet": "A groundbreaking look at trends in gene editing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.444,
+      "scraped_at": "2026-07-14T13:30:48.961566+00:00",
+      "sub_query_id": "8141b287"
+    },
+    {
+      "source_id": "src_004932",
+      "url": "https://www.nature.com/articles/gene-editing-research-4932",
+      "title": "Innovative research in gene editing",
+      "snippet": "A innovative look at research in gene editing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.444,
+      "scraped_at": "2026-07-14T13:30:48.961580+00:00",
+      "sub_query_id": "8141b287"
+    },
+    {
+      "source_id": "src_007523",
+      "url": "https://www.pnas.org/articles/gene-editing-breakthrough-7523",
+      "title": "Novel breakthrough in gene editing",
+      "snippet": "A novel look at breakthrough in gene editing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.444,
+      "scraped_at": "2026-07-14T13:30:48.961592+00:00",
+      "sub_query_id": "8141b287"
+    },
+    {
+      "source_id": "src_009085",
+      "url": "https://www.ieee.org/articles/gene-editing-developments-9085",
+      "title": "Controversial developments in gene editing",
+      "snippet": "A controversial look at developments in gene editing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T13:30:48.906827+00:00",
+      "sub_query_id": "3a5a69a1"
+    },
+    {
+      "source_id": "src_008320",
+      "url": "https://www.arxiv.org/articles/gene-editing-investment-8320",
+      "title": "Recent investment in gene editing",
+      "snippet": "This article covers recent investment related to gene editing, with data from multiple independent sources.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T13:30:48.906838+00:00",
+      "sub_query_id": "3a5a69a1"
+    },
+    {
+      "source_id": "src_000028",
+      "url": "https://www.pnas.org/articles/gene-editing-analysis-28",
+      "title": "Regional analysis in gene editing",
+      "snippet": "An in-depth analysis of gene editing, focused on regional implications for practitioners and policymakers.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.885790+00:00",
+      "sub_query_id": "4567b2c5"
+    },
+    {
+      "source_id": "src_007499",
+      "url": "https://www.reuters.com/articles/gene-editing-adoption-7499",
+      "title": "Recent adoption in gene editing",
+      "snippet": "New adoption on gene editing highlights recent shifts across the industry and academic community.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.885829+00:00",
+      "sub_query_id": "4567b2c5"
+    },
+    {
+      "source_id": "src_001284",
+      "url": "https://www.nytimes.com/articles/gene-editing-risks-1284",
+      "title": "Novel risks in gene editing",
+      "snippet": "An in-depth risks of gene editing, focused on novel implications for practitioners and policymakers.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.885843+00:00",
+      "sub_query_id": "4567b2c5"
+    },
+    {
+      "source_id": "src_006523",
+      "url": "https://www.mit.edu/articles/gene-editing-report-6523",
+      "title": "Experimental report in gene editing",
+      "snippet": "An in-depth report of gene editing, focused on experimental implications for practitioners and policymakers.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.885854+00:00",
+      "sub_query_id": "4567b2c5"
+    },
+    {
+      "source_id": "src_005002",
+      "url": "https://www.pnas.org/articles/gene-editing-outlook-5002",
+      "title": "Regional outlook in gene editing",
+      "snippet": "Experts discuss the regional outlook surrounding gene editing and what it means going forward.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.885866+00:00",
+      "sub_query_id": "4567b2c5"
+    },
+    {
+      "source_id": "src_002285",
+      "url": "https://www.sciencemag.org/articles/gene-editing-impact-2285",
+      "title": "Regional impact in gene editing",
+      "snippet": "An in-depth impact of gene editing, focused on regional implications for practitioners and policymakers.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T13:30:49.029474+00:00",
+      "sub_query_id": "d9340275"
+    }
+  ],
+  "critique": {
+    "confidence_score": 0.801,
+    "gaps": [],
+    "bias_flags": []
+  },
+  "metadata": {
+    "total_urls_visited": 15,
+    "agent_interactions": 4,
+    "wall_clock_seconds": 0.18,
+    "timings": {
+      "planning_time": 0.001,
+      "search_time": 0.175,
+      "scrape_time": 0.044,
+      "synthesis_time": 0.002,
+      "critique_time": 0.002,
+      "re_search_time": 0.0
+    }
+  }
+}

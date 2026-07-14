@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "How does AI help in medicine?"
+  },
+  {
+    "role": "assistant",
+    "content": "I cannot answer this question because the retrieved database does not contain relevant, verified information on this topic."
+  }
+]

@@ -1,0 +1,191 @@
+{
+  "report_id": "10e3fb34-a684-4625-9f58-dc1398095791",
+  "topic": "Recent advances in quantum computing hardware",
+  "summary": "This report synthesizes findings on 'Recent advances in quantum computing hardware' drawn from 9 sources across 5 research angles. Well-covered angles include: Recent Advances Quantum Computing Hardware Overview And Definition; Recent Advances Quantum Computing Hardware Recent Developments; Recent Advances Quantum Computing Hardware Key Players And Organizations; Recent Advances Quantum Computing Hardware Challenges And Risks; Recent Advances Quantum Computing Hardware Economic Or Societal Impact. Overall, the source base reflects a mix of independent outlets and reflects reasonable topical diversity; see the critique section for a confidence assessment and any bias flags. Detailed section breakdown follows to provide comprehensive context: Drawing on 4 sources, this section examines 'recent advances quantum computing hardware overview and definition'. Experts discuss the recent policy surrounding quantum computing and what it means going forward. A recent look at trends in quantum computing, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 1 sources, this section examines 'recent advances quantum computing hardware recent developments'. A regional look at developments in quantum computing, examining key drivers, stakeholders, and open questions. Drawing on 1 sources, this section examines 'recent advances quantum computing hardware key players and organizations'. A groundbreaking look at regulation in quantum computing, examining key drivers, stakeholders, and open questions. Drawing on 1 sources, this section examines 'recent advances quantum computing hardware challenges and risks'. An in-depth risks of quantum computing, focused on global implications for practitioners and policymakers. Drawing on 1 sources, this section examines 'recent advances quantum computing hardware economic or societal impact'. Experts discuss the regional impact surrounding quantum computing and what it means going forward. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. ",
+  "sections": [
+    {
+      "heading": "Recent Advances Quantum Computing Hardware Overview And Definition",
+      "content": "Drawing on 4 sources, this section examines 'recent advances quantum computing hardware overview and definition'. Experts discuss the recent policy surrounding quantum computing and what it means going forward. A recent look at trends in quantum computing, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_002485",
+        "src_002025",
+        "src_003364",
+        "src_006657"
+      ]
+    },
+    {
+      "heading": "Recent Advances Quantum Computing Hardware Recent Developments",
+      "content": "Drawing on 1 sources, this section examines 'recent advances quantum computing hardware recent developments'. A regional look at developments in quantum computing, examining key drivers, stakeholders, and open questions.",
+      "citations": [
+        "src_005565"
+      ]
+    },
+    {
+      "heading": "Recent Advances Quantum Computing Hardware Key Players And Organizations",
+      "content": "Drawing on 1 sources, this section examines 'recent advances quantum computing hardware key players and organizations'. A groundbreaking look at regulation in quantum computing, examining key drivers, stakeholders, and open questions.",
+      "citations": [
+        "src_002991"
+      ]
+    },
+    {
+      "heading": "Recent Advances Quantum Computing Hardware Challenges And Risks",
+      "content": "Drawing on 1 sources, this section examines 'recent advances quantum computing hardware challenges and risks'. An in-depth risks of quantum computing, focused on global implications for practitioners and policymakers.",
+      "citations": [
+        "src_006232"
+      ]
+    },
+    {
+      "heading": "Recent Advances Quantum Computing Hardware Economic Or Societal Impact",
+      "content": "Drawing on 1 sources, this section examines 'recent advances quantum computing hardware economic or societal impact'. Experts discuss the regional impact surrounding quantum computing and what it means going forward.",
+      "citations": [
+        "src_002621"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_002485",
+      "url": "https://www.sciencemag.org/articles/quantum-computing-policy-2485",
+      "title": "Recent policy in quantum computing",
+      "snippet": "Experts discuss the recent policy surrounding quantum computing and what it means going forward.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.787863+00:00",
+      "sub_query_id": "c7cd20f9",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_002025",
+      "url": "https://www.theguardian.com/articles/quantum-computing-trends-2025",
+      "title": "Recent trends in quantum computing",
+      "snippet": "A recent look at trends in quantum computing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.787925+00:00",
+      "sub_query_id": "c7cd20f9",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_003364",
+      "url": "https://www.bloomberg.com/articles/quantum-computing-research-3364",
+      "title": "Recent research in quantum computing",
+      "snippet": "Experts discuss the recent research surrounding quantum computing and what it means going forward.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.787939+00:00",
+      "sub_query_id": "c7cd20f9",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_006657",
+      "url": "https://www.wsj.com/articles/quantum-computing-developments-6657",
+      "title": "Recent developments in quantum computing",
+      "snippet": "A recent look at developments in quantum computing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.787950+00:00",
+      "sub_query_id": "c7cd20f9",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_009656",
+      "url": "https://www.forbes.com/articles/quantum-computing-impact-9656",
+      "title": "Recent impact in quantum computing",
+      "snippet": "Experts discuss the recent impact surrounding quantum computing and what it means going forward.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.787960+00:00",
+      "sub_query_id": "c7cd20f9",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_005565",
+      "url": "https://www.bloomberg.com/articles/quantum-computing-developments-5565",
+      "title": "Regional developments in quantum computing",
+      "snippet": "A regional look at developments in quantum computing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.820751+00:00",
+      "sub_query_id": "031497ca",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_006232",
+      "url": "https://www.forbes.com/articles/quantum-computing-risks-6232",
+      "title": "Global risks in quantum computing",
+      "snippet": "An in-depth risks of quantum computing, focused on global implications for practitioners and policymakers.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:18.911089+00:00",
+      "sub_query_id": "94305577",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_002991",
+      "url": "https://www.reuters.com/articles/quantum-computing-regulation-2991",
+      "title": "Groundbreaking regulation in quantum computing",
+      "snippet": "A groundbreaking look at regulation in quantum computing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.444,
+      "scraped_at": "2026-07-14T18:35:18.871293+00:00",
+      "sub_query_id": "8f8480f6",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_002621",
+      "url": "https://www.bbc.com/articles/quantum-computing-impact-2621",
+      "title": "Regional impact in quantum computing",
+      "snippet": "Experts discuss the regional impact surrounding quantum computing and what it means going forward.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T18:35:18.940658+00:00",
+      "sub_query_id": "56e4e520",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    }
+  ],
+  "critique": {
+    "confidence_score": 0.816,
+    "gaps": [],
+    "bias_flags": []
+  },
+  "metadata": {
+    "total_urls_visited": 9,
+    "agent_interactions": 4,
+    "wall_clock_seconds": 0.174,
+    "timings": {
+      "planning_time": 0.006,
+      "search_time": 0.168,
+      "scrape_time": 0.042,
+      "synthesis_time": 0.004,
+      "critique_time": 0.002,
+      "re_search_time": 0.0
+    }
+  }
+}

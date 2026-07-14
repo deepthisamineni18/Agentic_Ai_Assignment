@@ -1,0 +1,30 @@
+[
+  {
+    "role": "system",
+    "content": "SUMMARY OF PAST TURNS: System: SUMMARY OF PAST TURNS: System: SUMMARY OF PAST TURNS: User: How does AI help in medicine?... | Assis... | User: How does AI help in medicine?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Controversial investment in artif... | User: How does AI help in medicine?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Controversial investment in artif... | User: How does AI help in medicine?... | Assistant: Based on the verified database, here is what I found:\n\nSource [1]: Controversial investment in artif..."
+  },
+  {
+    "role": "user",
+    "content": "How does AI help in medicine?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Controversial investment in artificial intelligence An in-depth investment of artificial intelligence, focused on controversial implications for practitioners and policymakers.\n\nSource [2]: Innovative developments in artificial intelligence An in-depth developments of artificial intelligence, focused on innovative implications for practitioners and policymakers.\n\nSource [3]: Innovative outlook in artificial intelligence An in-depth outlook of artificial intelligence, focused on innovative implications for practitioners and policymakers.\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  },
+  {
+    "role": "user",
+    "content": "How does AI help in medicine?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Controversial investment in artificial intelligence An in-depth investment of artificial intelligence, focused on controversial implications for practitioners and policymakers.\n\nSource [2]: Innovative developments in artificial intelligence An in-depth developments of artificial intelligence, focused on innovative implications for practitioners and policymakers.\n\nSource [3]: Innovative outlook in artificial intelligence An in-depth outlook of artificial intelligence, focused on innovative implications for practitioners and policymakers.\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  },
+  {
+    "role": "user",
+    "content": "How does AI help in medicine?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Innovative developments in artificial intelligence An in-depth developments of artificial intelligence, focused on innovative implications for practitioners and policymakers.\n\nSource [2]: Global developments in artificial intelligence An in-depth developments of artificial intelligence, focused on global implications for practitioners and policymakers.\n\nSource [3]: Global developments in public health policy An in-depth developments of public health policy, focused on global implications for practitioners and policymakers.\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  }
+]

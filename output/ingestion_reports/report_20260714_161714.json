@@ -1,0 +1,17 @@
+{
+  "pipeline_run_id": "ingest-1784045834",
+  "topic": "AI in healthcare",
+  "execution_start": "2026-07-14T16:17:14.614541+00:00",
+  "execution_end": "2026-07-14T16:17:15.813104+00:00",
+  "duration_seconds": 1.2,
+  "articles_retrieved": 9,
+  "articles_processed": 9,
+  "articles_skipped": 0,
+  "token_budget": null,
+  "token_used_estimate": 178,
+  "new_chunks_added": 9,
+  "duplicates_skipped": 0,
+  "total_chunks_in_db": 9,
+  "expired_chunks_purged": 0,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,323 @@
+{
+  "report_id": "3e3185ca-9138-4647-96bd-112739ca069e",
+  "topic": "Cybersecurity risks in cloud infrastructure",
+  "summary": "This report synthesizes findings on 'Cybersecurity risks in cloud infrastructure' drawn from 18 sources across 5 research angles. Well-covered angles include: Cybersecurity Risks Cloud Infrastructure Overview And Definition; Cybersecurity Risks Cloud Infrastructure Recent Developments; Cybersecurity Risks Cloud Infrastructure Key Players And Organizations; Cybersecurity Risks Cloud Infrastructure Economic Or Societal Impact. Coverage gaps were identified in: Cybersecurity Risks Cloud Infrastructure Challenges And Risks. Overall, the source base reflects a mix of independent outlets and reflects reasonable topical diversity; see the critique section for a confidence assessment and any bias flags. Detailed section breakdown follows to provide comprehensive context: Drawing on 4 sources, this section examines 'cybersecurity risks cloud infrastructure overview and definition'. An in-depth risks of cybersecurity, focused on recent implications for practitioners and policymakers. A emerging look at risks in cloud computing, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 4 sources, this section examines 'cybersecurity risks cloud infrastructure recent developments'. Experts discuss the recent developments surrounding cloud computing and what it means going forward. Experts discuss the recent developments surrounding cloud computing and what it means going forward. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 3 sources, this section examines 'cybersecurity risks cloud infrastructure key players and organizations'. A regional look at investment in cybersecurity, examining key drivers, stakeholders, and open questions. A experimental look at risks in urban planning, examining key drivers, stakeholders, and open questions. No sufficiently relevant sources were found for this angle ('cybersecurity risks cloud infrastructure challenges and risks'). This is flagged as a coverage gap. Drawing on 2 sources, this section examines 'cybersecurity risks cloud infrastructure economic or societal impact'. This article covers emerging risks related to cloud computing, with data from multiple independent sources. This article covers emerging risks related to cloud computing, with data from multiple independent sources. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. ",
+  "sections": [
+    {
+      "heading": "Cybersecurity Risks Cloud Infrastructure Overview And Definition",
+      "content": "Drawing on 4 sources, this section examines 'cybersecurity risks cloud infrastructure overview and definition'. An in-depth risks of cybersecurity, focused on recent implications for practitioners and policymakers. A emerging look at risks in cloud computing, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_008808",
+        "src_006768",
+        "src_003455",
+        "src_005936"
+      ]
+    },
+    {
+      "heading": "Cybersecurity Risks Cloud Infrastructure Recent Developments",
+      "content": "Drawing on 4 sources, this section examines 'cybersecurity risks cloud infrastructure recent developments'. Experts discuss the recent developments surrounding cloud computing and what it means going forward. Experts discuss the recent developments surrounding cloud computing and what it means going forward. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_005322",
+        "src_005705",
+        "src_000049",
+        "src_001823"
+      ]
+    },
+    {
+      "heading": "Cybersecurity Risks Cloud Infrastructure Key Players And Organizations",
+      "content": "Drawing on 3 sources, this section examines 'cybersecurity risks cloud infrastructure key players and organizations'. A regional look at investment in cybersecurity, examining key drivers, stakeholders, and open questions. A experimental look at risks in urban planning, examining key drivers, stakeholders, and open questions.",
+      "citations": [
+        "src_009125",
+        "src_003919",
+        "src_007387"
+      ]
+    },
+    {
+      "heading": "Cybersecurity Risks Cloud Infrastructure Challenges And Risks",
+      "content": "No sufficiently relevant sources were found for this angle ('cybersecurity risks cloud infrastructure challenges and risks'). This is flagged as a coverage gap.",
+      "citations": []
+    },
+    {
+      "heading": "Cybersecurity Risks Cloud Infrastructure Economic Or Societal Impact",
+      "content": "Drawing on 2 sources, this section examines 'cybersecurity risks cloud infrastructure economic or societal impact'. This article covers emerging risks related to cloud computing, with data from multiple independent sources. This article covers emerging risks related to cloud computing, with data from multiple independent sources.",
+      "citations": [
+        "src_008806",
+        "src_007566"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_005322",
+      "url": "https://www.bloomberg.com/articles/cloud-computing-developments-5322",
+      "title": "Recent developments in cloud computing",
+      "snippet": "Experts discuss the recent developments surrounding cloud computing and what it means going forward.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:20.100605+00:00",
+      "sub_query_id": "5350a063",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_005705",
+      "url": "https://www.sciencemag.org/articles/cloud-computing-developments-5705",
+      "title": "Recent developments in cloud computing",
+      "snippet": "Experts discuss the recent developments surrounding cloud computing and what it means going forward.",
+      "relevance_score": 0.5,
+      "scraped_at": "2026-07-14T18:35:20.100663+00:00",
+      "sub_query_id": "5350a063",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_008808",
+      "url": "https://www.bloomberg.com/articles/cybersecurity-risks-8808",
+      "title": "Recent risks in cybersecurity",
+      "snippet": "An in-depth risks of cybersecurity, focused on recent implications for practitioners and policymakers.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068388+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_006768",
+      "url": "https://www.pnas.org/articles/cloud-computing-risks-6768",
+      "title": "Emerging risks in cloud computing",
+      "snippet": "A emerging look at risks in cloud computing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068420+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_003455",
+      "url": "https://www.nytimes.com/articles/cloud-computing-risks-3455",
+      "title": "Emerging risks in cloud computing",
+      "snippet": "Experts discuss the emerging risks surrounding cloud computing and what it means going forward.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068429+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_005936",
+      "url": "https://www.theguardian.com/articles/cloud-computing-risks-5936",
+      "title": "Regional risks in cloud computing",
+      "snippet": "An in-depth risks of cloud computing, focused on regional implications for practitioners and policymakers.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068437+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_005775",
+      "url": "https://www.bbc.com/articles/cybersecurity-risks-5775",
+      "title": "Large-scale risks in cybersecurity",
+      "snippet": "New risks on cybersecurity highlights large-scale shifts across the industry and academic community.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068444+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_001182",
+      "url": "https://www.economist.com/articles/cybersecurity-risks-1182",
+      "title": "Experimental risks in cybersecurity",
+      "snippet": "A experimental look at risks in cybersecurity, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068452+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_008163",
+      "url": "https://www.bbc.com/articles/cybersecurity-risks-8163",
+      "title": "Experimental risks in cybersecurity",
+      "snippet": "New risks on cybersecurity highlights experimental shifts across the industry and academic community.",
+      "relevance_score": 0.429,
+      "scraped_at": "2026-07-14T18:35:20.068460+00:00",
+      "sub_query_id": "706882b4",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_009125",
+      "url": "https://www.reuters.com/articles/cybersecurity-investment-9125",
+      "title": "Regional investment in cybersecurity",
+      "snippet": "A regional look at investment in cybersecurity, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T18:35:20.148482+00:00",
+      "sub_query_id": "82de057b",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_003919",
+      "url": "https://www.bloomberg.com/articles/urban-planning-risks-3919",
+      "title": "Experimental risks in urban planning",
+      "snippet": "A experimental look at risks in urban planning, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T18:35:20.148515+00:00",
+      "sub_query_id": "82de057b",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_007387",
+      "url": "https://www.bloomberg.com/articles/ocean-conservation-risks-7387",
+      "title": "Novel risks in ocean conservation",
+      "snippet": "A novel look at risks in ocean conservation, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T18:35:20.148524+00:00",
+      "sub_query_id": "82de057b",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_000049",
+      "url": "https://www.mit.edu/articles/cybersecurity-developments-49",
+      "title": "Innovative developments in cybersecurity",
+      "snippet": "Experts discuss the innovative developments surrounding cybersecurity and what it means going forward.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T18:35:20.100638+00:00",
+      "sub_query_id": "5350a063",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_001823",
+      "url": "https://www.bbc.com/articles/cybersecurity-research-1823",
+      "title": "Recent research in cybersecurity",
+      "snippet": "A recent look at research in cybersecurity, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T18:35:20.100646+00:00",
+      "sub_query_id": "5350a063",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_007935",
+      "url": "https://www.economist.com/articles/cybersecurity-forecast-7935",
+      "title": "Recent forecast in cybersecurity",
+      "snippet": "New forecast on cybersecurity highlights recent shifts across the industry and academic community.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T18:35:20.100655+00:00",
+      "sub_query_id": "5350a063",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_006606",
+      "url": "https://www.un.org/articles/cybersecurity-developments-6606",
+      "title": "Experimental developments in cybersecurity",
+      "snippet": "Experts discuss the experimental developments surrounding cybersecurity and what it means going forward.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T18:35:20.100671+00:00",
+      "sub_query_id": "5350a063",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_008806",
+      "url": "https://www.who.int/articles/cloud-computing-risks-8806",
+      "title": "Emerging risks in cloud computing",
+      "snippet": "This article covers emerging risks related to cloud computing, with data from multiple independent sources.",
+      "relevance_score": 0.25,
+      "scraped_at": "2026-07-14T18:35:20.220513+00:00",
+      "sub_query_id": "6cf46e1e",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    },
+    {
+      "source_id": "src_007566",
+      "url": "https://www.nature.com/articles/cloud-computing-risks-7566",
+      "title": "Emerging risks in cloud computing",
+      "snippet": "This article covers emerging risks related to cloud computing, with data from multiple independent sources.",
+      "relevance_score": 0.25,
+      "scraped_at": "2026-07-14T18:35:20.220549+00:00",
+      "sub_query_id": "6cf46e1e",
+      "url_status": {
+        "status": null,
+        "error": null
+      },
+      "archived_url": null
+    }
+  ],
+  "critique": {
+    "confidence_score": 0.685,
+    "gaps": [
+      "Cybersecurity Risks Cloud Infrastructure Challenges And Risks"
+    ],
+    "bias_flags": []
+  },
+  "metadata": {
+    "total_urls_visited": 18,
+    "agent_interactions": 4,
+    "wall_clock_seconds": 0.589,
+    "timings": {
+      "planning_time": 0.001,
+      "search_time": 0.186,
+      "scrape_time": 0.046,
+      "synthesis_time": 0.001,
+      "critique_time": 0.402,
+      "re_search_time": 0.397
+    }
+  }
+}

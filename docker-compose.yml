@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7-alpine
+    command: ["redis-server", "--save", "", "--appendonly", "no"]
+    ports:
+      - "6379:6379"
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: "0.5"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 2s
+      timeout: 2s
+      retries: 15
+
+  app:
+    build: .
+    depends_on:
+      redis:
+        condition: service_healthy
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - LOG_LEVEL=INFO
+      - RESEARCH_OUTPUT_DIR=/app/output
+      # Optional: set ANTHROPIC_API_KEY in your shell or a .env file next to
+      # this docker-compose.yml to enable real Claude-generated answers in
+      # the RAG chat (research_pipeline/llm_client.py). Unset = the
+      # pipeline works exactly as before, using template-based generation.
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - ANTHROPIC_MODEL=${ANTHROPIC_MODEL:-claude-sonnet-5}
+    volumes:
+      - ./output:/app/output
+      - ./topics.json:/app/topics.json:ro
+    command: ["--topics-file", "/app/topics.json", "--depth", "moderate", "--max-sources", "15"]
+    deploy:
+      resources:
+        limits:
+          memory: 3584M   # total budget with redis stays under 4GB
+          cpus: "3.5"

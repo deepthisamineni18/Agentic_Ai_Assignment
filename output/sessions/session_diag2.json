@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "How does AI help in medicine?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the verified database, here is what I found:\n\nSource [1]: Global developments in public health policy An in-depth developments of public health policy, focused on global implications for practitioners and policymakers.\n\nSource [2]: Emerging developments in public health policy New developments on public health policy highlights emerging shifts across the industry and academic community.\n\nSource [3]: Innovative developments in public health policy This article covers innovative developments related to public health policy, with data from multiple independent sources.\n\nThe above evidence is drawn directly from the indexed knowledge base. "
+  }
+]

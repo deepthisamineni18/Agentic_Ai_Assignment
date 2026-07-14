@@ -1,0 +1,17 @@
+{
+  "pipeline_run_id": "ingest-1784054212",
+  "topic": "Advancements in AI in the medical field",
+  "execution_start": "2026-07-14T18:36:52.296739+00:00",
+  "execution_end": "2026-07-14T18:37:43.341148+00:00",
+  "duration_seconds": 51.04,
+  "articles_retrieved": 10,
+  "articles_processed": 10,
+  "articles_skipped": 0,
+  "token_budget": null,
+  "token_used_estimate": 197,
+  "new_chunks_added": 9,
+  "duplicates_skipped": 1,
+  "total_chunks_in_db": 9,
+  "expired_chunks_purged": 0,
+  "status": "SUCCESS"
+}

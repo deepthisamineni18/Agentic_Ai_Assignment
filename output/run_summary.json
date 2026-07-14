@@ -1,0 +1,87 @@
+[
+  {
+    "topic": "Recent advances in quantum computing hardware",
+    "status": "ok",
+    "report_id": "10e3fb34-a684-4625-9f58-dc1398095791",
+    "elapsed_s": 0.18,
+    "confidence": 0.816,
+    "n_sources": 9,
+    "n_interactions": 5,
+    "timings": {
+      "planning_time": 0.006,
+      "search_time": 0.168,
+      "scrape_time": 0.042,
+      "synthesis_time": 0.004,
+      "critique_time": 0.002,
+      "re_search_time": 0.0
+    }
+  },
+  {
+    "topic": "The economic impact of electric vehicle adoption",
+    "status": "ok",
+    "report_id": "4798e086-c858-47f2-8ac8-95d79575ef8d",
+    "elapsed_s": 0.24,
+    "confidence": 0.757,
+    "n_sources": 15,
+    "n_interactions": 5,
+    "timings": {
+      "planning_time": 0.002,
+      "search_time": 0.235,
+      "scrape_time": 0.059,
+      "synthesis_time": 0.003,
+      "critique_time": 0.001,
+      "re_search_time": 0.0
+    }
+  },
+  {
+    "topic": "Advances in gene editing for disease treatment",
+    "status": "ok",
+    "report_id": "b29973e5-4153-44fb-a6fc-9153617df2c7",
+    "elapsed_s": 0.19,
+    "confidence": 0.801,
+    "n_sources": 15,
+    "n_interactions": 5,
+    "timings": {
+      "planning_time": 0.001,
+      "search_time": 0.183,
+      "scrape_time": 0.046,
+      "synthesis_time": 0.002,
+      "critique_time": 0.001,
+      "re_search_time": 0.0
+    }
+  },
+  {
+    "topic": "Trends in renewable energy storage technology",
+    "status": "ok",
+    "report_id": "a454fe61-ec04-47a5-a7d4-76ead73e28cd",
+    "elapsed_s": 0.19,
+    "confidence": 0.805,
+    "n_sources": 15,
+    "n_interactions": 5,
+    "timings": {
+      "planning_time": 0.001,
+      "search_time": 0.18,
+      "scrape_time": 0.045,
+      "synthesis_time": 0.001,
+      "critique_time": 0.001,
+      "re_search_time": 0.0
+    }
+  },
+  {
+    "topic": "Cybersecurity risks in cloud infrastructure",
+    "status": "ok",
+    "report_id": "3e3185ca-9138-4647-96bd-112739ca069e",
+    "elapsed_s": 0.59,
+    "confidence": 0.685,
+    "n_sources": 18,
+    "n_interactions": 11,
+    "timings": {
+      "planning_time": 0.001,
+      "search_time": 0.186,
+      "scrape_time": 0.046,
+      "synthesis_time": 0.001,
+      "critique_time": 0.402,
+      "re_search_time": 0.397
+    }
+  }
+]

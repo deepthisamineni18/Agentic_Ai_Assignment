@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2026-07-14T13:30:49.288627+00:00",
+    "channel": "planner",
+    "sender": "Supervisor",
+    "recipient": "PlannerAgent",
+    "msg_type": "research.requested"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.289584+00:00",
+    "channel": "searcher",
+    "sender": "PlannerAgent",
+    "recipient": "SearcherAgent",
+    "msg_type": "plan.created"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.460766+00:00",
+    "channel": "synthesizer",
+    "sender": "SearcherAgent",
+    "recipient": "SynthesizerAgent",
+    "msg_type": "search.done"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.462768+00:00",
+    "channel": "critic",
+    "sender": "SynthesizerAgent",
+    "recipient": "CriticAgent",
+    "msg_type": "synthesis.done"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.465359+00:00",
+    "channel": "searcher",
+    "sender": "CriticAgent",
+    "recipient": "SearcherAgent",
+    "msg_type": "plan.created"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.662521+00:00",
+    "channel": "synthesizer",
+    "sender": "SearcherAgent",
+    "recipient": "SynthesizerAgent",
+    "msg_type": "search.done"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.664233+00:00",
+    "channel": "critic",
+    "sender": "SynthesizerAgent",
+    "recipient": "CriticAgent",
+    "msg_type": "synthesis.done"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.665925+00:00",
+    "channel": "searcher",
+    "sender": "CriticAgent",
+    "recipient": "SearcherAgent",
+    "msg_type": "plan.created"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.860831+00:00",
+    "channel": "synthesizer",
+    "sender": "SearcherAgent",
+    "recipient": "SynthesizerAgent",
+    "msg_type": "search.done"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.862296+00:00",
+    "channel": "critic",
+    "sender": "SynthesizerAgent",
+    "recipient": "CriticAgent",
+    "msg_type": "synthesis.done"
+  },
+  {
+    "timestamp": "2026-07-14T13:30:49.863841+00:00",
+    "channel": "output.14a713ee-fa65-48e4-9693-65ab9bbfe9ea",
+    "sender": "CriticAgent",
+    "recipient": "Supervisor",
+    "msg_type": "report.done"
+  }
+]

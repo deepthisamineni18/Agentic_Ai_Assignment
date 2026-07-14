@@ -1,0 +1,206 @@
+{
+  "report_id": "7b0a5e4a-a74e-482b-bb26-3ec93fc1f119",
+  "topic": "The economic impact of electric vehicle adoption",
+  "summary": "This report synthesizes findings on 'The economic impact of electric vehicle adoption' drawn from 15 sources across 5 research angles. Well-covered angles include: Economic Impact Electric Vehicle Adoption Overview And Definition; Economic Impact Electric Vehicle Adoption Recent Developments; Economic Impact Electric Vehicle Adoption Key Players And Organizations; Economic Impact Electric Vehicle Adoption Challenges And Risks; Economic Impact Electric Vehicle Adoption Economic Or Societal Impact. Overall, the source base reflects a mix of independent outlets and reflects reasonable topical diversity; see the critique section for a confidence assessment and any bias flags. Detailed section breakdown follows to provide comprehensive context: Drawing on 4 sources, this section examines 'economic impact electric vehicle adoption overview and definition'. A emerging look at impact in electric vehicles, examining key drivers, stakeholders, and open questions. Experts discuss the regional adoption surrounding biotechnology and what it means going forward. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 4 sources, this section examines 'economic impact electric vehicle adoption recent developments'. New adoption on gene editing highlights recent shifts across the industry and academic community. New adoption on water scarcity highlights recent shifts across the industry and academic community. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 2 sources, this section examines 'economic impact electric vehicle adoption key players and organizations'. A novel look at adoption in urban planning, examining key drivers, stakeholders, and open questions. A regional look at impact in gene editing, examining key drivers, stakeholders, and open questions. Drawing on 3 sources, this section examines 'economic impact electric vehicle adoption challenges and risks'. An in-depth risks of electric vehicles, focused on short-term implications for practitioners and policymakers. A regional look at risks in electric vehicles, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 3 independent outlets; claims below are cross-checked against the highest-relevance sources first. Drawing on 1 sources, this section examines 'economic impact electric vehicle adoption economic or societal impact'. This article covers long-term impact related to electric vehicles, with data from multiple independent sources. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. This comprehensive overview underscores the complexity of the research topic, ensuring all foundational aspects are thoroughly documented and analyzed according to the specified research plan. The synthesis relies on cross-referencing multiple high-relevance sources to mitigate individual bias and provide a well-rounded perspective. By methodically addressing each sub-query generated during the initial planning phase, the resultant summary accurately reflects both consensus views and diverging framing among the indexed literature. Further iterations of this research could expand the depth of coverage, particularly for angles flagged with limited direct citations. ",
+  "sections": [
+    {
+      "heading": "Economic Impact Electric Vehicle Adoption Overview And Definition",
+      "content": "Drawing on 4 sources, this section examines 'economic impact electric vehicle adoption overview and definition'. A emerging look at impact in electric vehicles, examining key drivers, stakeholders, and open questions. Experts discuss the regional adoption surrounding biotechnology and what it means going forward. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_007847",
+        "src_008091",
+        "src_008884",
+        "src_004446"
+      ]
+    },
+    {
+      "heading": "Economic Impact Electric Vehicle Adoption Recent Developments",
+      "content": "Drawing on 4 sources, this section examines 'economic impact electric vehicle adoption recent developments'. New adoption on gene editing highlights recent shifts across the industry and academic community. New adoption on water scarcity highlights recent shifts across the industry and academic community. Sources vary in framing and emphasis across 4 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_007499",
+        "src_007119",
+        "src_008429",
+        "src_005713"
+      ]
+    },
+    {
+      "heading": "Economic Impact Electric Vehicle Adoption Key Players And Organizations",
+      "content": "Drawing on 2 sources, this section examines 'economic impact electric vehicle adoption key players and organizations'. A novel look at adoption in urban planning, examining key drivers, stakeholders, and open questions. A regional look at impact in gene editing, examining key drivers, stakeholders, and open questions.",
+      "citations": [
+        "src_004832",
+        "src_001343"
+      ]
+    },
+    {
+      "heading": "Economic Impact Electric Vehicle Adoption Challenges And Risks",
+      "content": "Drawing on 3 sources, this section examines 'economic impact electric vehicle adoption challenges and risks'. An in-depth risks of electric vehicles, focused on short-term implications for practitioners and policymakers. A regional look at risks in electric vehicles, examining key drivers, stakeholders, and open questions. Sources vary in framing and emphasis across 3 independent outlets; claims below are cross-checked against the highest-relevance sources first.",
+      "citations": [
+        "src_001452",
+        "src_003509",
+        "src_001097"
+      ]
+    },
+    {
+      "heading": "Economic Impact Electric Vehicle Adoption Economic Or Societal Impact",
+      "content": "Drawing on 1 sources, this section examines 'economic impact electric vehicle adoption economic or societal impact'. This article covers long-term impact related to electric vehicles, with data from multiple independent sources.",
+      "citations": [
+        "src_001038"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_007847",
+      "url": "https://www.stanford.edu/articles/electric-vehicles-impact-7847",
+      "title": "Emerging impact in electric vehicles",
+      "snippet": "A emerging look at impact in electric vehicles, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.583497+00:00",
+      "sub_query_id": "4c94d19a"
+    },
+    {
+      "source_id": "src_001452",
+      "url": "https://www.pnas.org/articles/electric-vehicles-risks-1452",
+      "title": "Short-term risks in electric vehicles",
+      "snippet": "An in-depth risks of electric vehicles, focused on short-term implications for practitioners and policymakers.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.820668+00:00",
+      "sub_query_id": "841b04c7"
+    },
+    {
+      "source_id": "src_003509",
+      "url": "https://www.bbc.com/articles/electric-vehicles-risks-3509",
+      "title": "Regional risks in electric vehicles",
+      "snippet": "A regional look at risks in electric vehicles, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.820713+00:00",
+      "sub_query_id": "841b04c7"
+    },
+    {
+      "source_id": "src_001097",
+      "url": "https://www.wsj.com/articles/electric-vehicles-risks-1097",
+      "title": "Innovative risks in electric vehicles",
+      "snippet": "A innovative look at risks in electric vehicles, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.375,
+      "scraped_at": "2026-07-14T13:30:48.820730+00:00",
+      "sub_query_id": "841b04c7"
+    },
+    {
+      "source_id": "src_004832",
+      "url": "https://www.reuters.com/articles/urban-planning-adoption-4832",
+      "title": "Novel adoption in urban planning",
+      "snippet": "A novel look at adoption in urban planning, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T13:30:48.663271+00:00",
+      "sub_query_id": "7d6fec9f"
+    },
+    {
+      "source_id": "src_001343",
+      "url": "https://www.who.int/articles/gene-editing-impact-1343",
+      "title": "Regional impact in gene editing",
+      "snippet": "A regional look at impact in gene editing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.333,
+      "scraped_at": "2026-07-14T13:30:48.663312+00:00",
+      "sub_query_id": "7d6fec9f"
+    },
+    {
+      "source_id": "src_007499",
+      "url": "https://www.reuters.com/articles/gene-editing-adoption-7499",
+      "title": "Recent adoption in gene editing",
+      "snippet": "New adoption on gene editing highlights recent shifts across the industry and academic community.",
+      "relevance_score": 0.286,
+      "scraped_at": "2026-07-14T13:30:48.609539+00:00",
+      "sub_query_id": "6315466b"
+    },
+    {
+      "source_id": "src_007119",
+      "url": "https://www.un.org/articles/water-scarcity-adoption-7119",
+      "title": "Recent adoption in water scarcity",
+      "snippet": "New adoption on water scarcity highlights recent shifts across the industry and academic community.",
+      "relevance_score": 0.286,
+      "scraped_at": "2026-07-14T13:30:48.609640+00:00",
+      "sub_query_id": "6315466b"
+    },
+    {
+      "source_id": "src_008429",
+      "url": "https://www.techcrunch.com/articles/semiconductor-manufacturing-adoption-8429",
+      "title": "Recent adoption in semiconductor manufacturing",
+      "snippet": "A recent look at adoption in semiconductor manufacturing, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.286,
+      "scraped_at": "2026-07-14T13:30:48.609665+00:00",
+      "sub_query_id": "6315466b"
+    },
+    {
+      "source_id": "src_005713",
+      "url": "https://www.nature.com/articles/electric-vehicles-developments-5713",
+      "title": "Regional developments in electric vehicles",
+      "snippet": "New developments on electric vehicles highlights regional shifts across the industry and academic community.",
+      "relevance_score": 0.286,
+      "scraped_at": "2026-07-14T13:30:48.609684+00:00",
+      "sub_query_id": "6315466b"
+    },
+    {
+      "source_id": "src_001038",
+      "url": "https://www.stanford.edu/articles/electric-vehicles-impact-1038",
+      "title": "Long-term impact in electric vehicles",
+      "snippet": "This article covers long-term impact related to electric vehicles, with data from multiple independent sources.",
+      "relevance_score": 0.286,
+      "scraped_at": "2026-07-14T13:30:48.828205+00:00",
+      "sub_query_id": "5baf3100"
+    },
+    {
+      "source_id": "src_008091",
+      "url": "https://www.sciencedirect.com/articles/biotechnology-adoption-8091",
+      "title": "Regional adoption in biotechnology",
+      "snippet": "Experts discuss the regional adoption surrounding biotechnology and what it means going forward.",
+      "relevance_score": 0.25,
+      "scraped_at": "2026-07-14T13:30:48.583536+00:00",
+      "sub_query_id": "4c94d19a"
+    },
+    {
+      "source_id": "src_008884",
+      "url": "https://www.reuters.com/articles/robotics-adoption-8884",
+      "title": "Novel adoption in robotics",
+      "snippet": "An in-depth adoption of robotics, focused on novel implications for practitioners and policymakers.",
+      "relevance_score": 0.25,
+      "scraped_at": "2026-07-14T13:30:48.583551+00:00",
+      "sub_query_id": "4c94d19a"
+    },
+    {
+      "source_id": "src_004446",
+      "url": "https://www.wired.com/articles/economics-adoption-4446",
+      "title": "Recent adoption in economics",
+      "snippet": "An in-depth adoption of economics, focused on recent implications for practitioners and policymakers.",
+      "relevance_score": 0.25,
+      "scraped_at": "2026-07-14T13:30:48.583563+00:00",
+      "sub_query_id": "4c94d19a"
+    },
+    {
+      "source_id": "src_005926",
+      "url": "https://www.techcrunch.com/articles/neuroscience-adoption-5926",
+      "title": "Experimental adoption in neuroscience",
+      "snippet": "A experimental look at adoption in neuroscience, examining key drivers, stakeholders, and open questions.",
+      "relevance_score": 0.25,
+      "scraped_at": "2026-07-14T13:30:48.583574+00:00",
+      "sub_query_id": "4c94d19a"
+    }
+  ],
+  "critique": {
+    "confidence_score": 0.757,
+    "gaps": [],
+    "bias_flags": []
+  },
+  "metadata": {
+    "total_urls_visited": 15,
+    "agent_interactions": 4,
+    "wall_clock_seconds": 0.271,
+    "timings": {
+      "planning_time": 0.001,
+      "search_time": 0.268,
+      "scrape_time": 0.067,
+      "synthesis_time": 0.001,
+      "critique_time": 0.002,
+      "re_search_time": 0.0
+    }
+  }
+}
